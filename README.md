@@ -12,7 +12,7 @@ This project demonstrates how to perform a basic web application security assess
 ## 📄 Project Report
 
 A formal PDF report was created to simulate real-world documentation for clients or stakeholders:
-[Web_Security_Assessment_Nmap_Nikto.pdf](./report/)[Web_Security_Assessment Project.pdf](https://github.com/user-attachments/files/20735372/Web_Security_Assessment.Project.pdf)
+[Web_Security_Assessment_Nmap_Nikto.pdf](./report/Web_Security_Assessment Project.pdf)(https://github.com/user-attachments/files/20735372/Web_Security_Assessment.Project.pdf)
 
 
 ## 📁 Folder Structure
@@ -28,6 +28,8 @@ Make sure you have both tools installed in a Linux-based environment (e.g., Kali
 
 ```bash
 git add report/Web_Security_Assessment_Nmap_Nikto.pdf
+git commit -m[Web_Security_Assessment Project.pdf](https://github.com/user-attachments/files/20735375/Web_Security_Assessment.Project.pdf)
+
 # Run Nmap TCP scan
 bash scripts/nmap_scan.sh
 
