@@ -26,6 +26,7 @@ A formal PDF report was created to simulate real-world documentation for clients
 Make sure you have both tools installed in a Linux-based environment (e.g., Kali Linux).
 
 ```bash
+git add report/Web_Security_Assessment_Nmap_Nikto.pdf
 # Run Nmap TCP scan
 bash scripts/nmap_scan.sh
 
